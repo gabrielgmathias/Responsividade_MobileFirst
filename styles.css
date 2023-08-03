@@ -1,9 +1,6 @@
 :root{ background-color: black;
     --cor-de-fundo: #EBECEE;
-    --branco: #FFF;
-    --amarelo: #fecd2f;
-    --roxo: #C75EEB;  
-    --fonte-tamanho-padrao: 16px;  
+    
 }
 
 body{
