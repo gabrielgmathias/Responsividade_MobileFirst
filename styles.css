@@ -1,7 +1,6 @@
 :root{ background-color: black;
-    --cor-de-fundo: 
     
-}
+}blackground-color:black 
 
 body{
     background-color: var(--cor-de-fundo);
